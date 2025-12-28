@@ -1,0 +1,32 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/*/data.json
+.obsidian/core-plugins-migration.json
+.obsidian/core-plugins.json
+.obsidian/community-plugins.json
+.obsidian/hotkeys.json
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/graph.json
+.obsidian/bookmarks.json
+
+# Personal content (if someone forks and uses)
+LifeOS/05-Daily/*.md
+!LifeOS/05-Daily/.gitkeep
+LifeOS/06-Weekly/*.md
+!LifeOS/06-Weekly/.gitkeep
+LifeOS/07-Monthly/*.md
+!LifeOS/07-Monthly/.gitkeep
+LifeOS/08-Quarterly/*.md
+!LifeOS/08-Quarterly/.gitkeep
+LifeOS/09-Yearly/*.md
+!LifeOS/09-Yearly/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.bak
+*.tmp
