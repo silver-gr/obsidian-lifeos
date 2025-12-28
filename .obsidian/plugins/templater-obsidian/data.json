@@ -1,0 +1,36 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "LifeOS/13-Templates",
+  "templates_pairs": [["", ""]],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "LifeOS/05-Daily",
+      "template": "LifeOS/13-Templates/Daily Note.md"
+    },
+    {
+      "folder": "LifeOS/06-Weekly",
+      "template": "LifeOS/13-Templates/Weekly Review.md"
+    },
+    {
+      "folder": "LifeOS/07-Monthly",
+      "template": "LifeOS/13-Templates/Monthly Review.md"
+    },
+    {
+      "folder": "LifeOS/01-Projects",
+      "template": "LifeOS/13-Templates/Project.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [{"regex": ".*", "template": ""}],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [""],
+  "startup_templates": [""],
+  "intellisense_render": 1
+}

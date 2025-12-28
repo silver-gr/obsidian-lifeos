@@ -1,0 +1,6 @@
+{
+  "folder": "LifeOS/05-Daily",
+  "format": "YYYY-MM-DD",
+  "template": "LifeOS/13-Templates/Daily Note.md",
+  "autorun": false
+}

@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Typewriter",
+  "accentColor": "#6338ff",
+  "theme": "system",
+  "enabledCssSnippets": [
+    "dashboard-columns"
+  ]
+}

@@ -5,6 +5,16 @@ A comprehensive **Integrated Life Management Architecture (ILMA)** for [Obsidian
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
+## Pre-Configured & Ready to Use
+
+This vault comes **pre-configured** with:
+- **Typewriter Theme** - Clean, distraction-free writing experience
+- **Plugin configurations** - Templater, Calendar, and Daily Notes pre-set
+- **CSS snippets** - Dashboard styling enabled by default
+- **Folder templates** - Auto-apply templates when creating notes in specific folders
+
+Just install the required plugins, and you're ready to go!
+
 ## Features
 
 - **PARA Organization** - Projects, Areas, Resources, Archives structure
@@ -17,16 +27,17 @@ A comprehensive **Integrated Life Management Architecture (ILMA)** for [Obsidian
 
 ## Quick Start
 
-### 1. Download & Install
+### 1. Download & Open as Vault
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/obsidian-lifeos.git
-
-# Or download as ZIP and extract to your Obsidian vault
+git clone https://github.com/silver-gr/obsidian-lifeos.git
 ```
 
-Copy the `LifeOS/` folder into your existing Obsidian vault, or use this as a new vault.
+Or download as ZIP and extract. Then open the folder as a vault in Obsidian:
+- Obsidian → Open folder as vault → Select `obsidian-lifeos`
+
+The **Typewriter theme** and **CSS snippets** will be active automatically.
 
 ### 2. Install Required Plugins
 
@@ -199,6 +210,7 @@ Contributions welcome! Please open an issue or PR.
 Built with inspiration from:
 - [PARA Method](https://fortelabs.com/blog/para/) by Tiago Forte
 - [Obsidian](https://obsidian.md) community
+- [Typewriter Theme](https://github.com/crashmoney/obsidian-typewriter) by crashmoney
 - [Dataview](https://github.com/blacksmithgu/obsidian-dataview) plugin
 - [Templater](https://github.com/SilentVoid13/Templater) plugin
 
